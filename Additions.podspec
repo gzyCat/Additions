@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "GZYAdditions"
+  s.name         = "Additions"
   s.version      = "1.0.0"
   s.summary      = "分类的集合"
 
